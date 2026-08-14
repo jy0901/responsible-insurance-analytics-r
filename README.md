@@ -31,7 +31,6 @@ The project demonstrates how classical actuarial methods and modern machine-lear
 | `Coursework.R`          | Main R script for the project. It loads the data, performs data cleaning, applies Box–Cox transformation, creates age bands, runs PCA, fits principal-component regression and trains a Poisson neural network. |
 | `Report.pdf`         | Final report explaining the project background, methodology, results, model interpretation and conclusions.                                                                                                     |
 | `Exercise.pdf`          | Original coursework brief describing the required tasks for ethics, data wrangling, PCA/regression and neural-network modelling.                                                                                |
-| `README.md`             | Overview of the repository and explanation of the project files.                                                                                                                                                |
 
 ## What the Exercise Does
 
