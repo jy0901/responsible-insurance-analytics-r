@@ -4,10 +4,6 @@ Responsible Insurance Analytics in R
 
 This repository contains the data, R code and final report for an actuarial data science project on responsible insurance analytics. The project combines data science ethics, insurance data wrangling, principal component analysis, linear regression and deep neural network modelling.
 
-## Recommended Repository Name
-
-`responsible-insurance-analytics-r`
-
 ## Project Overview
 
 The aim of this project is to apply statistical and machine-learning methods to insurance datasets while also considering responsible and ethical use of algorithms in insurance.
